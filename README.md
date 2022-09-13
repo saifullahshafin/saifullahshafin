@@ -18,7 +18,7 @@
 <a href="https://kaggle.com/saifullahshafin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saifullahshafin" height="30" width="40" /></a>
 <a href="https://fb.com/saifullahshafin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saifullahshafin" height="30" width="40" /></a>
 <a href="https://instagram.com/michaelshorff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michaelshorff" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucbhcjgxv8ylfcrrwf_aoxzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucbhcjgxv8ylfcrrwf_aoxzw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCBHcJGXV8yLfCRRwF_aoxZw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/channel/UCBHcJGXV8yLfCRRwF_aoxZw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
