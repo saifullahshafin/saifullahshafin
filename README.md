@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/https://www.kaggle.com/saifullahshafin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/saifullahshafin" height="30" width="40" /></a>
+<a href="https://kaggle.com/saifullahshafin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saifullahshafin" height="30" width="40" /></a>
 <a href="https://fb.com/saifullahshafin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saifullahshafin" height="30" width="40" /></a>
 <a href="https://instagram.com/saifullahshafin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saifullahshafin" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/3d world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="3d world" height="30" width="40" /></a>
